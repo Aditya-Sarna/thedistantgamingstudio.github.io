@@ -39,4 +39,4 @@ Simply visit the hosted link above in any modern web browser. No installation re
 
 ---
 
-**All rights reserved @ Distant Gaming Studio**
+**All rights reserved © Distant Gaming Studio**
